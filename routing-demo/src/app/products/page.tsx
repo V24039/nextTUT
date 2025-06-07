@@ -1,0 +1,12 @@
+export default function Products() {
+    return (
+        <>
+            <h1>
+                Product list
+            </h1>
+            <h2>Product 1</h2>
+            <h2>Product 1</h2>
+            <h2>Product 1</h2>
+        </>
+    )
+}
